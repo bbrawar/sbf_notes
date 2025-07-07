@@ -60,4 +60,7 @@ To make it easier to run RxTools commands from any directory, you can add the co
 4. Save and close the file, then run the following command to apply the changes:
     ```bash
     source ~/.bashrc
-    ``` 
+    ```
+
+    ## Rinex Files
+   https://files.igs.org/pub/data/format/rinex211.txt
